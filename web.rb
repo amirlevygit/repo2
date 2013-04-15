@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get '/' do
-  "shalom olam"
+  "shalom olam2"
 end
